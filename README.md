@@ -20,11 +20,12 @@ Evaluate category-level impact on total revenue
 Perform customer and product segmentation for strategic insights
 
 ## Key Metrics Discovered
-Metric	Value
-Total Sales Revenue	29.36 Million
-Average Product Price	486.04
-Total Quantity Sold	60,423 Units
-Total Orders	27,659
+Metric	Value:
+
+- Total Sales Revenue	29.36 Million
+- Average Product Price	486.04
+- Total Quantity Sold	60,423 Units
+- Total Orders	27,659
 
 ## This project goes beyond reporting by explicitly connecting analytical activity to business action and quantified outcomes.
 
